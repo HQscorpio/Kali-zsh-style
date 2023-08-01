@@ -5,5 +5,10 @@ Zsh theme like in kali linux
 
 
 To install a theme put the zsh-theme file to ~/.oh-my-zsh/themes directory and  set ZSH_THEME="kali" in your .zshrc file.
+```shell
+git clone https://github.com/HQscorpio/Kali-zsh-style.git
+cd Kali-zsh-style
+mv kali.zsh-theme ~/.oh-my-zsh/themes
+```
 
 The Kali-zsh-style is based on bira zsh theme.
