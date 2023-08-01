@@ -11,7 +11,7 @@ cd Kali-zsh-style
 mv kali.zsh-theme ~/.oh-my-zsh/themes
 ```
 ```shell
-# in your .zshrc file
+##### H5 in your .zshrc file
 ZSH_THEME="kali"
 ```
 
