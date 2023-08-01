@@ -10,5 +10,9 @@ git clone https://github.com/HQscorpio/Kali-zsh-style.git
 cd Kali-zsh-style
 mv kali.zsh-theme ~/.oh-my-zsh/themes
 ```
+```shell
+##### in your .zshrc file
+ZSH_THEME="kali"
+```
 
 The Kali-zsh-style is based on bira zsh theme.
